@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "outDir": "../c_out",
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    "composite": true
+  },
+  "references": [
+    {"path": "../b"}
+  ],
+  "include": [
+    ".",
+  ]
+}

@@ -1,0 +1,9 @@
+// Type check all projects
+{
+  "references": [
+    {"path": "./a"},
+    {"path": "./b"},
+    {"path": "./c"}
+  ],
+  "files": []
+}

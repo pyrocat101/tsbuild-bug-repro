@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "outDir": "../a_out",
+    "rootDir": "..",
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    "composite": true
+  },
+  "include": [
+    ".",
+    "../b/doubly_included.ts"
+  ]
+}
